@@ -14,13 +14,13 @@
   <div class="headerback">
 	 <div class="header">
 	   <div id="max-width"> <!-- empty css -->
-	     <img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Logo-Small.png" class="small-logo"/>
+	     <img src="Logo-Small.png" class="small-logo"/>
 	       <h1 id="title">Hello World </h1>
 	       <div id="header-li">
              <ul class="nav">
-               <li><a href="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/ProjectHelloWorld.html"><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Header-Icons/Home.png"></a></li>
-               <li><a href="#"><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Header-Icons/explore.png"></a></li>
-               <li><a href="#"><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Header-Icons/alert.png"></a></li>
+               <li><a href="interests"><img src="Home.png"></a></li>
+               <li><a href="#"><img src="explore.png"></a></li>
+               <li><a href="#"><img src="alert.png"></a></li>
              </ul>
            </div>
          </div>
@@ -34,7 +34,7 @@
     <div class="box-left">
       <div id="column1-user-info"> 
         <div id="column-content">
-          <a href="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/ProjectHelloWorld.html"><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/John-Smith-Small.jpg" id="john-smith-small-photo"></a>
+          <a href="interests"><img src="images/John-Smith-Small.jpg" id="john-smith-small-photo"></a>
             <p id="john-smith-small-text">John Smith</p>
         </div>
       </div>
@@ -93,14 +93,14 @@
       <div id="center-column-1-photo">
         <div class="floating-content-div">
           <div id="info-card">
-            <a href="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/ProjectHelloWorld.html"><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/John-Smith-Small.jpg"></a>
+            <a href="interests"><img src="images/John-Smith-Small.jpg"></a>
             <div id="name-and-info">
-              <a href="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/ProjectHelloWorld.html">John Smith</a>
+              <a href="interests">John Smith</a>
               <div id="text-block1"></div>
               <div id="text-block2"></div>
               <div id="text-block3"></div>
             </div>
-          <div id="layout-button"><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Untitled-1.png">
+          <div id="layout-button"><img src="images/layout-button.png">
           </div>
           <div id="edit-chat-button">Edit</div>
           </div> 
@@ -120,120 +120,122 @@
             <div class="all-the-center-divs">
               <div id="div1">
                   <div id="text-div1">Photography</div>
-                <div id="photo-div1"><a href="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Photography.html"><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/photography.jpg"></a></div>
+                <div id="photo-div1"><a href="Photography"><img src="images/Interests/Photography.jpg"></a></div>
               </div>
               <div id="div2">
                   <div id="text-div2">Travel</div>
-                <div id="photo-div2"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/Travel.jpg"></a></div>
+                <div id="photo-div2"><a href=""><img src="images/Interests/travel.jpg"></a></div>
               </div>
               <div id="div3">
                   <div id="text-div3">Programming</div>
-                <div id="photo-div3"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/Programming.jpg"></a></div>
+                <div id="photo-div3"><a href="https://github.com/Vencroy"><img src="images/Interests/programming.jpg"></a></div>
               </div>
               <div id="div4">
                   <div id="text-div4">Graphic<br>Design</div>
-                <div id="photo-div4"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/Graphic%20Desgin.jpg"></a></div>
+                <div id="photo-div4"><a href=""><img src="images/Interests/Graphic Desgin.jpg"></a></div>
               </div>
               <div id="div5">
                   <div id="text-div5">Coffee</div>
-                <div id="photo-div5"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/coffee.jpg"></a></div>
+                <div id="photo-div5"><a href=""><img src="images/Interests/coffee.jpg"></a></div>
               </div>
               <div id="div6">
                   <div id="text-div6">Gaiming</div>
-                <div id="photo-div6"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/gaiming.jpg"></a></div>
+                <div id="photo-div6"><a href="https://go.twitch.tv/directory/game/Overwatch"><img src="images/Interests/gaiming.jpg"></a></div>
               </div>
               <div id="div7">
                   <div id="text-div7">Jogging</div>
-                <div id="photo-div7"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/jogging2.jpg"></a></div>
+                <div id="photo-div7"><a href=""><img src="images/Interests/jogging2.jpg"></a></div>
               </div>
               <div id="div8">
                   <div id="text-div8">The Beatles</div>
-                <div id="photo-div8"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/classics.jpg"></a></div>
+                <div id="photo-div8"><a href="https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"><img src="images/Interests/classics.jpg"></a></div>
               </div>
               <div id="div9">
                   <div id="text-div9">Hiking</div>
-                <div id="photo-div9"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/hiking.jpg"></a></div>
+                <div id="photo-div9"><a href=""><img src="images/Interests/hiking.jpg"></a></div>
               </div>
               <div id="div10">
                   <div id="text-div10">Memes</div>
-                <div id="photo-div10"><a href="https://ifunny.co/"><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/memes.jpg"></a></div>
+                <div id="photo-div10"><a href="https://ifunny.co/"><img src="images/Interests/memes.jpg"></a></div>
               </div>
               <div id="div11">
                   <div id="text-div11">Movie<br>Making</div>
-                <div id="photo-div11"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/movie-making.jpg"></a></div>
+                <div id="photo-div11"><a href=""><img src="images/Interests/movie-making.jpg"></a></div>
               </div>
               <div id="div12">
                   <div id="text-div12">Biking</div>
-                <div id="photo-div12"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/biking.jpg"></a></div>
+                <div id="photo-div12"><a href=""><img src="images/Interests/biking.jpg"></a></div>
               </div>
               <div id="div13">
                   <div id="text-div13">Fast<br>Cars</div>
-                <div id="photo-div13"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/fast-cars.jpg"></a></div>
+                <div id="photo-div13"><a href=""><img src="images/Interests/fast-cars.jpg"></a></div>
               </div>
               <div id="div14">
                   <div id="text-div14">Soccer</div>
-                <div id="photo-div14"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/soccer.jpg"></a></div>
+                <div id="photo-div14"><a href=""><img src="images/Interests/soccer.jpg"></a></div>
               </div>
               <div id="div15">
                   <div id="text-div15">Chess</div>
-                <div id="photo-div15"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/chess.jpg"></a></div>
+                <div id="photo-div15"><a href=""><img src="images/Interests/chess.jpg"></a></div>
               </div>
               <div id="div16">
                   <div id="text-div16">UW<br>Huskies</div>
-                <div id="photo-div16"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/UW-huskies.jpg"></a></div>
+                <div id="photo-div16"><a href=""><img src="images/Interests/uw-huskies.jpg"></a></div>
               </div>
               <div id="div17">
                   <div id="text-div17">Stat Wars</div>
-                <div id="photo-div17"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/star-wars.jpg"></a></div>
+                <div id="photo-div17"><a href=""><img src="images/Interests/star-wars.jpg"></a></div>
               </div>
               <div id="div18">
                   <div id="text-div18">Working Out</div>
-                <div id="photo-div18"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/working-out.jpg"></a></div>
+                <div id="photo-div18"><a href=""><img src="images/Interests/working-out.jpg"></a></div>
               </div>
               <div id="div19">
                   <div id="text-div19">Coding</div>
-                <div id="photo-div19"><a href=""><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/Programming2.jpg"></a></div>
+                <div id="photo-div19"><a href=""><img src="images/Interests/programming2.jpg"></a></div>
               </div>
               <div id="div20">
                   <div id="text-div20">Learning<br>Japanese</div>
-                <div id="photo-div20"><a href="https://www.duolingo.com/vencroy"><img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Interest%20Photos/learning-japanese2.jpg"></a></div>
+                <div id="photo-div20"><a href="https://www.duolingo.com/vencroy"><img src="images/Interests/learning-japanese2.jpg"></a></div>
               </div>
             </div>
           </div>
         </div> 
       </div>
         <div id="user-background-photo">
-          <img src="file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/HeadeLQr.jpg">
+          <img src="images/HeadeLQr.jpg">
         </div>
       </div>
     <div class="box-right">
       <div id="box-right-content">
         <div id="current-neighbors">Current Neighbors</div>
         <div id="location-info-banner"><p>Green Lake Park</p></div> 
-        <div id="photo-local-user1">
+        <div id="local-user-container1"><img src="images/local-user-images/user1.jpg">
           <div id="name-local-user1">Sussie Q</div>
           <div id="link-local-user1">University</div>
         </div>
-        <div id="photo-local-user2">
+        <div id="local-user-container2"><img src="images/local-user-images/user2.jpg">
           <div id="name-local-user2">Michael Z.</div>
           <div id="link-local-user2">University</div>
         </div>
-        <div id="photo-local-user3">
-          <div id="name-local-user3">Violet K.</div>
+        <div id="local-user-container3"><img src="images/local-user-images/user3.jpg">
+          <div id="name-local-user3">Violate K.</div>
           <div id="link-local-user3">Gym</div>
         </div>
-        <div id="photo-local-user4">
+        <div id="local-user-container4"><img src="images/local-user-images/user4.jpg">
           <div id="name-local-user4">Rose M.</div>
           <div id="link-local-user4">Work</div>
         </div>
-        <div id="photo-local-user5">
+        <div id="local-user-container5"><img src="images/local-user-images/user5.jpg">
           <div id="name-local-user5">Chris H.</div>
-          <div id="link-local-user5">University + Gym</div>
+          <div id="link-local-user5">Gym + Univ...</div>
         </div>
-        <div id="photo-local-user6">
+        <div id="local-user-container6"><img src="images/local-user-images/user6.jpg">
           <div id="name-local-user6">Lily S.</div>
           <div id="link-local-user6">University</div>
         </div>
+        
+        
       </div>
     </div>
   </div>
