@@ -2,7 +2,7 @@ html, body {
 	background-color: #dedede;
 	margin:0 auto;
 	padding:0 auto;
-	zoom:130%;
+	zoom:125%;
 }
 * {
 	margin:0 auto;
@@ -58,16 +58,16 @@ html, body {
 	display:inline-block;
 	font-size:30px;
 	margin-top:10px;
-	margin-right:660px;
+	margin-right:610px;
 	float:left;
-	margin-left:-25px;
+	margin-left:5px;
 }
 .small-logo {
 	margin-top:-15px;
 	float:left;
 	height:90px;
 	width:90px;
-	margin-left: -130px;
+	margin-left: -55px;
 }
 #header-li {
     margin-bottom: 25px;
@@ -137,7 +137,7 @@ li > a > img {
 	padding:0 5px;
 	float:left;
 	width:250px;
-	height:500px;
+	height:450px;
 	border-radius:5px;
 	text-align:center;
 	display:inline-block;
@@ -1257,159 +1257,160 @@ li > a > img {
 	float:left;
 	margin-left: 20px;
 }
-#photo-local-user1 {
+#local-user-container1 {
+	margin:10px 5px 5px 10px;
+	height:60px;
+	);
+}
+#local-user-container1 > img {
 	height: 60px;
 	width:60px;
-	background-color: slategrey;
 	float: left;
 	border-radius: 100px;
-	margin:10px;
 	background-size:contain;
-	background-image: url("file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Local%20users/user1.jpg");
 }
 #name-local-user1 {
-	float:left;
 	color:#565656;
-	margin-left:100px;
-	display: inline-block;
-	width: 150px;
-	text-align: left;
-	margin-left: 75px;
-	margin-top:10px;
+	margin-right:50px;
+	padding-top:10px;
+	float:left;
+	margin-left:23px;
 }
 #link-local-user1 {
 	font-size: 15px;
 	color:#08ae5a;
-	margin-left: 65px;
-	width:100px;
+	margin-right:50px;
+	float:left;
+	margin-left:23px;
+	
 }
-#photo-local-user2 {
+#local-user-container2 {
+	margin:10px 5px 5px 10px;
+	height:60px;
+	);
+}
+#local-user-container2 > img {
 	height: 60px;
 	width:60px;
-	background-color: slategrey;
 	float: left;
 	border-radius: 100px;
-	margin:85px 0 0 -70px ;
 	background-size:contain;
-	background-image: url("file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Local%20users/user2.jpg");
 }
 #name-local-user2 {
-	float:left;
 	color:#565656;
-	margin-left:100px;
-	display: inline-block;
-	width: 150px;
-	text-align: left;
-	margin-left: 75px;
-	margin-top:10px;
+	margin-right:50px;
+	padding-top:10px;
+	float:left;
+	margin-left:23px;
 }
 #link-local-user2 {
 	font-size: 15px;
 	color:#08ae5a;
-	margin-left: 65px;
-	width:100px;
+	margin-right:50px;
+	float:left;
+	margin-left:23px;
 }
-#photo-local-user3 {
+#local-user-container3 {
+	margin:10px 5px 5px 10px;
+	height:60px;
+	);
+}
+#local-user-container3 > img {
 	height: 60px;
 	width:60px;
-	background-color: slategrey;
 	float: left;
 	border-radius: 100px;
-	margin:160px 0 0 -70px;
 	background-size:contain;
-	background-image: url("file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Local%20users/user3.jpg");
 }
 #name-local-user3 {
-	float:left;
 	color:#565656;
-	margin-left:100px;
-	display: inline-block;
-	width: 150px;
-	text-align: left;
-	margin-left: 75px;
-	margin-top:10px;
+	margin-right:50px;
+	padding-top:10px;
+	float:left;
+	margin-left:23px;
 }
 #link-local-user3 {
 	font-size: 15px;
 	color:#08ae5a;
-	margin-left: 47px;
-	width:100px;
+	margin-right:50px;
+	float:left;
+	margin-left:23px;
 }
-#photo-local-user4 {
+#local-user-container4 {
+	margin:10px 5px 5px 10px;
+	height:60px;
+	);
+}
+#local-user-container4 > img {
 	height: 60px;
 	width:60px;
-	background-color: slategrey;
 	float: left;
 	border-radius: 100px;
-	margin:235px 0 0 -70px;
 	background-size:contain;
-	background-image: url("file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Local%20users/user4.jpg");
 }
 #name-local-user4 {
-	float:left;
 	color:#565656;
-	margin-left:100px;
-	display: inline-block;
-	width: 150px;
-	text-align: left;
-	margin-left: 75px;
-	margin-top:10px;
+	margin-right:50px;
+	padding-top:10px;
+	float:left;
+	margin-left:23px;
 }
 #link-local-user4 {
 	font-size: 15px;
 	color:#08ae5a;
-	margin-left: 47px;
-	width:100px;
+	margin-right:50px;
+	float:left;
+	margin-left:23px;
 }
-#photo-local-user5 {
+#local-user-container5 {
+	margin:10px 5px 5px 10px;
+	height:60px;
+	);
+}
+#local-user-container5 > img {
 	height: 60px;
 	width:60px;
-	background-color: slategrey;
 	float: left;
 	border-radius: 100px;
-	margin:310px 0 0 -70px;
 	background-size:contain;
-	background-image: url("file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Local%20users/user5.jpg");
 }
 #name-local-user5 {
-	float:left;
 	color:#565656;
-	margin-left:100px;
-	display: inline-block;
-	width: 150px;
-	text-align: left;
-	margin-left: 75px;
-	margin-top:10px;
+	margin-right:50px;
+	padding-top:10px;
+	float:left;
+	margin-left:23px;
 }
 #link-local-user5 {
 	font-size: 15px;
 	color:#08ae5a;
-	margin-left: 79px;
-	width:120px;
+	margin-right:50px;
+	float:left;
+	margin-left:23px;
 }
-#photo-local-user6 {
+#local-user-container6 {
+	margin:10px 5px 5px 10px;
+	height:60px;
+	);
+}
+#local-user-container6 > img {
 	height: 60px;
 	width:60px;
-	background-color: slategrey;
 	float: left;
 	border-radius: 100px;
-	margin:385px 0 0 -70px;
 	background-size:contain;
-	background-image: url("file:///C:/Users/Carlos%20Ramirez/Desktop/Project%20Hello%20World%20Content/Local%20users/user6.jpg");
 }
 #name-local-user6 {
-	float:left;
 	color:#565656;
-	margin-left:100px;
-	display: inline-block;
-	width: 150px;
-	text-align: left;
-	margin-left: 75px;
-	margin-top:10px;
+	margin-right:50px;
+	padding-top:10px;
+	float:left;
+	margin-left:23px;
 }
 #link-local-user6 {
 	font-size: 15px;
 	color:#08ae5a;
-	margin-left: 65px;
-	width:100px;
+	margin-right:50px;
+	float:left;
+	margin-left:23px;
 }
