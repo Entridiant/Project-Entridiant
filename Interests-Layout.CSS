@@ -61,20 +61,20 @@ a:Link {
 }
 #title {
 	color:white;
-	font-family:arial;
+	font-family: 'Leckerli One';
 	display:inline-block;
 	font-size:30px;
-	margin-top:10px;
-	margin-right:610px;
+	margin-top:7px;
+	margin-right:640px;
 	float:left;
-	margin-left:5px;
+	margin-left:15px;
 }
 .small-logo {
-	margin-top:-15px;
+	margin-top:5px;
 	float:left;
-	height:90px;
-	width:90px;
-	margin-left: -55px;
+	height:40px;
+	width:40px;
+	margin-left: -10px;
 }
 #header-li {
     margin-bottom: 25px;
@@ -1242,6 +1242,34 @@ li > a > img {
 #photo-div20 > a > img {
 	height:100px;
 	width: 100px;
+	background-color:slategrey;
+}
+#creator{
+	height:100px;
+	width:260px;
+	margin-left:-5px;
+	margin-top:30px;
+	background-color:white;
+	border-radius:5px;
+}
+#creator-text {
+	color:#565656;
+	margin-left:20px;
+	float:left;
+	margin-top:30px;
+}
+#creator-title {
+	color:#08ae5a;
+	margin-right:80px;
+}
+#creator > img {
+	height: 60px;
+	width:60px;
+	margin-top:20px;
+	margin-left:20px;
+	float: left;
+	border-radius: 100px;
+	background-size:contain;
 }
 #current-neighbors {
 	margin-top: -27px;
