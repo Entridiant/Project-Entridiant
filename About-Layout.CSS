@@ -456,13 +456,18 @@ li > a > img {
 	margin:2px 2px -2px 2px;
 }
 
-#div1 > p {
+#p-tag {
 	color:grey;
+	font-size:28px;
+	z-index: 1;
+	margin:0 1px;
+}
+#div1 > h4 {
+	font-family: 'Leckerli One';
+	display:inline;
+	color:#08ae5a;;
 	font-size:30px;
 	z-index: 1;
-	position: absolute;
-	margin:37px 10px 10px 6px;
-
 }
 #photo-div1:hover {
 	-webkit-filter: brightness(50%);
