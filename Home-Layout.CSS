@@ -246,9 +246,9 @@ li > a > img {
 	margin-top:-30px;
 }
 #john-smith-small-text {
-	font-size:25px;
+	font-size:23px;
 	color:grey;
-	padding:15px 35px 35px 28px;
+	padding:15px 25px 35px 28px;
 	font-family:arial;
 	font-weight: lighter;
 	text-align:center;
@@ -293,6 +293,7 @@ li > a > img {
 	margin-top: 12px;
 	float:left;
 	margin-left: 12px;
+	border-radius:10px;
 }
 #name-and-info {
 	max-width: 275px;
@@ -303,7 +304,7 @@ li > a > img {
 	color:grey;
 	font-size: 30px;
 	text-align: left;
-	margin-left: -275px;
+	margin-left: -230px;
 	margin-top:10px;
 	display:inline-block;
 	text-decoration: none;
@@ -311,32 +312,44 @@ li > a > img {
 #text-block1 {
 	height:12px;
 	width: 185px;
-	background-color:slategrey;
+	background-color: #f2f2f2;
 	display: inline-block;
 	float:left;
 	margin-top:50px;
 	margin-left: 25px;
 	border-radius: 10px;
+	font-size: 9px;
+	color:grey;
+	text-align:left;
+	padding-left:5px;
 }
 #text-block2 {
 	height:12px;
 	width: 235px;
-	background-color:slategrey;
+	background-color: #f2f2f2;
 	display: inline-block;
 	float:left;
 	margin-top:7px;
 	margin-left: 25px;
 	border-radius: 10px;
+	font-size: 9px;
+	color:grey;
+	text-align:left;
+	padding-left:5px;
 }
 #text-block3 {
 	height:12px;
 	width: 225px;
-	background-color:slategrey;
+	background-color: #f2f2f2;
 	display: inline-block;
 	float:left;
 	margin-top:7px;
 	margin-left: 25px;
 	border-radius: 10px;
+	font-size: 9px;
+	color:grey;
+	text-align:left;
+	padding-left:5px;
 }
 #layout-button {
 	display:inline-block;
@@ -353,11 +366,12 @@ li > a > img {
 	float:right;
 	background-color: #08ae5a;
 	color: white;
-	font-size: 30px;
+	font-size: 25px;
 	height:35px;
 	width: 75px;
 	text-align: center;
 	margin-top: 15px;
+	padding-top: 4px;
 	border-radius: 3px 0 0 3px;
 }
 #info-card-toggle {
